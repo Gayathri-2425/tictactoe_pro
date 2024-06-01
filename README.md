@@ -12,6 +12,8 @@ Tic Tac Toe is a simple Java application that allows users to play the classic g
 -->New Game, Reset, and Exit buttons for convenient gameplay.
 
 -->Sound effects for win and draw events.
+https://github.com/Gayathri-2425/tictactoe_pro/issues/1#issue-2329086497
+
 
 
 
